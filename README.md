@@ -63,13 +63,13 @@ This project is a **To-Do List application** that allows users to add, edit, del
 
 ## Live Demo
 
-[Live Deployment Link](https://your-deployment-link.com)
+[Live Deployment Link](https://to-do-app-with-filter.netlify.app/)
 
 ---
 
 ## Optional Features Implemented
 
-- [ ] Due dates / priority levels
+- [ ] Due dates/priority levels
 - [ ] Drag-and-drop reordering
 - [ ] Local Storage persistence
 
